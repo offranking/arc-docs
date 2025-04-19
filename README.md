@@ -25,10 +25,6 @@ mkdocs serve
 
 This will start a local server at `http://localhost:8000/` where you can preview the documentation.
 
-## Building the Site
-
-For deploying the docs on [GitHub Pages](https://pages.github.com/) mkdocs has the `mkdocs gh-deploy` command which is used in [docs workflow](https://github.com/sourcefuse/arc-docs/blob/main/.github/workflows/docs.yaml).
-
 However, If you want to build the site locally, you can do so by running the following command:
 
 ```sh
