@@ -35,11 +35,7 @@ However, If you want to build the site locally, you can do so by running the fol
 mkdocs build
 ```
 
-This will create the folder named `site` containing the static build files. Similar to what arc-docs have in its [`gh-pages`](https://github.com/sourcefuse/arc-docs/tree/gh-pages) branch.
-
 ## Navigation
 
 We use the `mkdocs-awesome-pages-plugin` to organize our documentation as it provides more features than default mkdocs nav options. To configure navigation for a particular section, please create/modify the `.pages.yml` file in that folder and add the appropriate navigation links.
 
-For more information on configuring navigation with `mkdocs-awesome-pages-plugin`, please refer to the [official documentation](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin#navigation).
->>>>>>> 944b382 (yaml)
