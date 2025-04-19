@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# arc-docs
-=======
+
 # ARC Docs
 
 This repository contains documentation in the form of Markdown files for the ARC API (Sourceloop), API IaC and ARC UI.
